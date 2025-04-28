@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Masaüstü\c#\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Masaüstü\c#\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Masaüstü\c#\Kart Oyunu\Kart Oyunu\bin\Debug\Kart Oyunu.exe.config
+C:\Users\ASUS\OneDrive\Masaüstü\c#\Kart Oyunu\Kart Oyunu\bin\Debug\Kart Oyunu.exe
+C:\Users\ASUS\OneDrive\Masaüstü\c#\Kart Oyunu\Kart Oyunu\bin\Debug\Kart Oyunu.pdb
+C:\Users\ASUS\OneDrive\Masaüstü\c#\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.exe
+C:\Users\ASUS\OneDrive\Masaüstü\c#\Kart Oyunu\Kart Oyunu\obj\Debug\Kart Oyunu.pdb
